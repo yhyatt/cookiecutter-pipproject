@@ -1,9 +1,9 @@
 {
-	"full_name": "Will McGinnis",
-	"email": "",
-	"github_username": "wdm0006",
+	"full_name": "Joel Koenka",
+	"email": "yoelk@tinyinspektor.com",
+	"github_username": "yoelk",
 	"project_name": "My Pip Installable Python Package",
-	"app_name": "mypippkg",
+	"app_name": "my_pip_pkg",
 	"project_short_description": "A python package that can be installed with pip.",
 	"version": "0.0.1"
 }
