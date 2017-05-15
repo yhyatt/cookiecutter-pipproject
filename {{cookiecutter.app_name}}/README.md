@@ -19,7 +19,7 @@ To install use pip:
 
 Or clone the repo:
 
-    $ git clone https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.app_name}}.git
+    $ git clone git@gitlab.com:tinyinspektor/sw/{{cookiecutter.app_name}}.git
     $ python setup.py install
     
 Contributing

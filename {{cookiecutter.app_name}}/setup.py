@@ -22,7 +22,7 @@ setup(
     version=__version__,
     description='{{cookiecutter.project_short_description}}',
     long_description=long_description,
-    url='https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.app_name}}',
+    url='https://gitlab.com/tinyinspektor/sw/{{cookiecutter.app_name}}',
     download_url='https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.app_name}}/tarball/' + __version__,
     license='BSD',
     classifiers=[
